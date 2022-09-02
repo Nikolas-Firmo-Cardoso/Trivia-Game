@@ -2,4 +2,15 @@ Jogo de perguntas e respostas utilizando uma API para a geração de perguntas. 
 
 O projeto usou recursos como webToken para acesso do usuário, um timer onde quanto mais rapida for a resposta, maior é a pontuação obtida e o armazenamento de pontuações de cada jogador.
 
+##
+ 
 Você pode conferir o resultado através deste link: https://www.linkedin.com/feed/update/urn:li:activity:6969099557540364288/
+
+##
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Niko-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Niko-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Niko-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Niko-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
