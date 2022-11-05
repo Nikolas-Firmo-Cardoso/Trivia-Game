@@ -32,7 +32,7 @@ git clone git@github.com:Nikolas-Firmo-Cardoso/Trivia-Game.git
 Entre na raiz do projeto:
 
 ```bash
-cd sd-019-a-project-trivia-react-redux
+cd Trivia-Game
 ```
 
 Instale as dependências:
